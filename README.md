@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I am TheCarAndBikeGuy!
-- 🔭 I’m currently working on My Week 12 Project!
-- 🤝 I’m looking to collaborate on any front-end development!
+- 👋🏻 Hello, I am TheCarAndBikeGuy!
+- 🔭 I’m currently working on a Guess Who game! 🧐
+- 🤝 I’m looking to collaborate on any software development projects!
 - ⚡ Fun fact: I love cars and bikes too 🏎️ 🏍️
