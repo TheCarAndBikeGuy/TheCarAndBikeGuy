@@ -1,4 +1,4 @@
 - 👋🏻 Hello, I am TheCarAndBikeGuy!
-- 🔭 I’m currently working on a Guess Who game! 🧐
+- 🔭 I’m currently working on a Snake game! 🐍
 - 🤝 I’m looking to collaborate on any Software Development projects!
 - ⚡ Fun fact: I love cars and bikes too 🏎️ 🏍️
